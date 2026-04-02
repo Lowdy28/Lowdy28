@@ -59,12 +59,6 @@ TSU in Information Technologies, specialized in Multiplatform Software Developme
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 <div align="center">
 
 | ‎ ‎ ‎ ‎ Contacts ‎ ‎ ‎ ‎ |
